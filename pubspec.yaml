@@ -1,0 +1,48 @@
+name: cinemaque
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http:
+  flutter_youtube: ^1.1.6
+
+  cupertino_icons: ^0.1.2
+  flutter_webview_plugin: ^0.2.1+2
+  firebase_auth: ^0.14.0
+  shared_preferences: ^0.5.3+4
+
+
+
+  connectivity:
+
+dev_dependencies:
+   flutter_test:
+     sdk: flutter
+
+flutter_icons:
+  ios: true
+  android: true
+  image_path_ios: "images/logo_1.png"
+  image_path_android: "images/logo_1.png"
+flutter:
+
+    uses-material-design: true
+
+    assets:
+      - images/
+    fonts:
+      - family: fira
+        fonts:
+          - asset: fonts/FiraSans-Regular.ttf
+      - family: Exo
+        fonts:
+          - asset: fonts/Exo-Regular.ttf
+      - family: SairaStencilOne-Regular
+        fonts:
+          - asset: fonts/SairaStencilOne-Regular.ttf

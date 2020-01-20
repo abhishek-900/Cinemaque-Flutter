@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "381642705756",
+    "firebase_url": "https://cinemaque-32ab3.firebaseio.com",
+    "project_id": "cinemaque-32ab3",
+    "storage_bucket": "cinemaque-32ab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381642705756:android:50f651b5bfd59f046a0f99",
+        "android_client_info": {
+          "package_name": "akshat.com.cinemaque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381642705756-4mgpa3ek4c1nrkr5s2nah3kq14i9f1dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "akshat.com.cinemaque",
+            "certificate_hash": "a87945b8d92b528915ff6b668c9843b0b145bb72"
+          }
+        },
+        {
+          "client_id": "381642705756-9l09bndk2gaf5m0e0dlflqvt9urmkg7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBemAeceOB_2EBIbDyzwqanCkQgKumjST0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381642705756-9l09bndk2gaf5m0e0dlflqvt9urmkg7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
